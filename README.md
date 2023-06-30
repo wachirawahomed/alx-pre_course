@@ -1,2 +1,2 @@
 My first readme
-alx pre course directorty
+coding is so awesome
